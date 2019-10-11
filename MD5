@@ -1,0 +1,17 @@
+41d1c10f01b2bdf8326a4872db323e15 *DESCRIPTION
+85400e6a7007fd7ba1d87328256712ff *LICENSE
+28d9819c3fb93ec17162205ec67cf71f *NAMESPACE
+dd8f3a4d37568d0c8ac24d0357689a54 *R/xlsx2dfs.R
+87d20bb496897cd0f062c957d44a4753 *build/vignette.rds
+3f9c34c73a06d121b48cd60fbaeb6b27 *inst/doc/xlsx2dfs.R
+95ca3e30f7f6eb12070c4f3db1809f71 *inst/doc/xlsx2dfs.Rmd
+e10de8528932d6d1356a9fd256b06ca1 *inst/doc/xlsx2dfs.html
+49b3527268f5d13155efa03a6a6f288e *inst/extdata/one_df.xlsx
+b9009c4af858b033da72ef99f2c4ed3d *inst/extdata/test.xlsx
+02dc6442caa5d9d465e8018f6192896f *inst/extdata/test_one_df.xlsx
+8c88e5f02abb70081c3e940160f9e641 *inst/extdata/test_two_dfs.xlsx
+8c88e5f02abb70081c3e940160f9e641 *inst/extdata/test_two_dfs1.xlsx
+b7b67c19046310aebb8d350dd41567ae *man/dfs2xlsx.Rd
+08feb34563bd45a16b9367f7683a475a *man/withNames.Rd
+5174de7e72f637b5c3b4225929e797db *man/xlsx2dfs.Rd
+95ca3e30f7f6eb12070c4f3db1809f71 *vignettes/xlsx2dfs.Rmd
